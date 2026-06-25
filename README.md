@@ -138,13 +138,13 @@ This repository serves as my:
 ## 🌟 My Profiles
 
 ### LeetCode
-https://leetcode.com/
+https://leetcode.com/u/Souvagya06/
 
 ### GitHub
 https://github.com/Souvagya06
 
 ### LinkedIn
-https://www.linkedin.com/in/souvagya-karmakar-4b818a389/
+https://www.linkedin.com/in/souvagya-karmakar-full-stack-dev/
 
 ---
 
