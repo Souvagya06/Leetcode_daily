@@ -48,8 +48,9 @@ Each problem folder contains:
 
 ## 🛠 Languages Used
 
-- Python 🐍
-- Java ☕
+- Python 
+- Java
+- C
 
 ---
 
