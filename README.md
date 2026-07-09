@@ -166,10 +166,12 @@ This repository is intended for learning and educational purposes.
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Souvagya06/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Souvagya06/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -178,5 +180,10 @@ This repository is intended for learning and educational purposes.
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Souvagya06/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
