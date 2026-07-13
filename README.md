@@ -190,4 +190,8 @@ This repository is intended for learning and educational purposes.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Souvagya06/Leetcode_daily/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
