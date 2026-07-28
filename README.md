@@ -194,4 +194,8 @@ This repository is intended for learning and educational purposes.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Souvagya06/Leetcode_daily/tree/master/1291-sequential-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Souvagya06/Leetcode_daily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
