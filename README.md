@@ -199,4 +199,5 @@ This repository is intended for learning and educational purposes.
 | ------- |
 | [0175-combine-two-tables](https://github.com/Souvagya06/Leetcode_daily/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Souvagya06/Leetcode_daily/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/Souvagya06/Leetcode_daily/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
