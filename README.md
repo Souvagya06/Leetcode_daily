@@ -169,12 +169,14 @@ This repository is intended for learning and educational purposes.
 | [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Souvagya06/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Souvagya06/Leetcode_daily/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Souvagya06/Leetcode_daily/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Souvagya06/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Souvagya06/Leetcode_daily/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Souvagya06/Leetcode_daily/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -186,6 +188,7 @@ This repository is intended for learning and educational purposes.
 | [0133-clone-graph](https://github.com/Souvagya06/Leetcode_daily/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Souvagya06/Leetcode_daily/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Souvagya06/Leetcode_daily/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Souvagya06/Leetcode_daily/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
 |  |
 | ------- |
